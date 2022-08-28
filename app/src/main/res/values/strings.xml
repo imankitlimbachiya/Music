@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="close">Close</string>
+    <string name="create_podcast">Create Podcast</string>
+    <string name="connector" translatable="false">•</string>
+    <string name="publish">Publish</string>
+    <string name="permissions">Need Permissions</string>
+    <string name="grant_permissions">This app needs permission to use this feature. You can grant them in app settings.</string>
+    <string name="go_to_setting">GOTO SETTINGS</string>
+    <string name="cancel">Cancel</string>
+</resources>
